@@ -7,6 +7,8 @@ Lee Chatmen is a popular influencer from the United States with over 7 million T
 ## Tool Used
 PowerBI
 ## Dashboard
-https://github.com/ParkibandaSrilakshmi/OnyxData-Projects/blob/main/Merchandise%20Sales%20Analysis--JAN%202025/Screenshot%202025-01-24%20235925.png
-https://github.com/ParkibandaSrilakshmi/OnyxData-Projects/blob/main/Merchandise%20Sales%20Analysis--JAN%202025/Screenshot%202025-01-25%20000004.png
-https://github.com/ParkibandaSrilakshmi/OnyxData-Projects/blob/main/Merchandise%20Sales%20Analysis--JAN%202025/Screenshot%202025-01-25%20000044.png
+<img width="584" alt="Image" src="https://github.com/user-attachments/assets/43d2252c-eaaf-4771-8b87-14b41fe619cb" />
+
+<img width="578" alt="Image" src="https://github.com/user-attachments/assets/414e2f06-3d05-4e2c-83f3-fa69fc4da671" />
+
+<img width="581" alt="Image" src="https://github.com/user-attachments/assets/018be963-e1ed-4a0e-b3ec-572ba7978769" />
